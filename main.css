@@ -1,0 +1,108 @@
+header {
+    padding: 3.5em 0 0.5em;
+    margin: 0 0 2.0em;
+    background:  url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.zastavki.com%2Fpictures%2F640x480%2F2015%2FFood___Drinks_Cocktails__Black_Background_106117_29.jpg&f=1&nofb=1);
+    background-size: auto 100%;
+    color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about {
+    float: inline-start;
+    position: relative;
+    width: 150px;
+    margin: 0 0.5em 2.0em 0.5em;
+    padding: 1.0em;
+    background-color: #310b0b;
+    border: #ccc solid 1px;
+    border-radius: 0.6em;
+    color: #fff;
+}
+
+body {
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.creativemarket.com%2Fimages%2Fscreenshots%2Fproducts%2F10%2F106%2F106399%2Fcrsrxfllostehmuxwzqfkdarpcg0di40toehyl4mzmgrkmy3dpfzxttukvsmluvp-o.jpg%3F1399222059&f=1&nofb=1);
+    font-family: 'Times New Roman', Times, serif;
+}
+.dishes {
+    float: inline-start;
+    margin: 0 0.5em 2.0em 0.5em;
+    width:  170px;
+    background-color: #fff;
+    border: #ccc solid 1px;
+    border-radius: 0.6em;
+    font-size: 11px;
+}
+.dishes h4 {
+    font-size: 15px;
+}
+.signaturedishes {
+    position: relative;
+    margin: 0 0.5em 0.5em 13.75em;
+    padding: 0 0 0.5em 0;
+    width:  716px;
+    background-color: #fff;
+    border:#ccc 1px;
+    height: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    border-radius: .3em;
+}
+.drinks {
+    position:relative;
+    margin: -2.75em 0.5em 20.0em 85.5em;
+    padding: 1.0em;
+    font-size: 11px;
+    width:  170px;
+    background-color: #fff;
+    border: #ccc solid 1px;
+    border-radius: 0.6em;
+}
+.drinks h4{
+    font-size: 15px;
+}
+
+.nav a{
+    text-align: right;
+    color: white;
+    font-size: 1.2em;
+    padding: 0 1em;
+}
+.nav {
+    text-align: right;
+}
+.nav a:hover {
+    color:aquamarine;
+}
+.maincourse {
+    position: relative;
+    margin: -76em 0.5em 2.0em 20.5em;
+    width:  670px;
+    background-color: #fff;
+    border: #ccc solid 1px;
+    border-radius: 0.6em;
+    font-size: 11px;
+    text-align: center;
+    background-color: goldenrod;
+}
+footer {
+   position: relative;
+   margin: 410px 0 0 0;
+    background-color: #40362f;
+    height: 25px;
+    font-size: 1.2em;
+    color: #fff;
+    text-align: center;
+    padding: 1.5em 2.0em;
+}
+footer li{
+    display: inline-block;
+    padding: 0 1.5em;
+}
+
+
+    
+   
+    
+
+
+
+    
